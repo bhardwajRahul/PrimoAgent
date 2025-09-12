@@ -4,6 +4,7 @@ CLAUDE.md
 AGENTS.md
 .claude/
 .mcp.json
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
