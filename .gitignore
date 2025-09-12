@@ -1,3 +1,10 @@
+
+# Custom
+CLAUDE.md
+AGENTS.md
+.claude/
+.mcp.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
