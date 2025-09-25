@@ -168,6 +168,7 @@ def run_single_interactive(data_dir: Path, output_dir: Path) -> int:
         "Sharpe Ratio",
         "Total Trades",
     ]
+    print(f"{'Metric':<22} {'PrimoAgent':>12} {'Buy & Hold':>12} {'Difference':>12}")
     for m in metrics:
         pv, bv = primo_results[m], buyhold_results[m]
         diff = pv - bv
