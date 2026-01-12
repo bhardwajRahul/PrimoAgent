@@ -145,6 +145,28 @@ This **must be run first** to collect and analyze market data. The system will i
 python backtest.py
 ```
 
+## Citation
+
+If you use this code in your research, please cite my paper:
+
+Botunac, I. (2025). Implementation of a multi-agent artificial intelligence system for financial trading decision-making. *Oeconomica Jadertina*, 15(2), 90-115. https://doi.org/10.15291/oec.4863
+
+*Note: The paper is written in Croatian with an English abstract summarizing the results. The complete implementation is available in this repository.*
+
+```bibtex
+@article{botunac2025multiagent,
+  title={Implementacija vi\v{s}eagentnog sustava umjetne inteligencije za dono\v{s}enje financijskih trgova\v{c}kih odluka},
+  author={Botunac, Ive},
+  journal={Oeconomica Jadertina},
+  volume={15},
+  number={2},
+  pages={90--115},
+  year={2025},
+  doi={10.15291/oec.4863},
+  url={https://hrcak.srce.hr/341777}
+}
+```
+
 ## License and Disclaimer
 
 This project is licensed under the MIT License. This repository contains academic research code intended for educational purposes only. Nothing herein constitutes financial advice or trading recommendations. The trading strategies and analyses are experimental in nature and have not been validated for real-world trading. Users should be aware that trading involves substantial risk of loss and should always consult financial professionals before making investment decisions.
